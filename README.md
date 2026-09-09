@@ -7,6 +7,7 @@ A beginner-friendly Jupyter Notebook containing 50 practice exercises on Python 
 The notebook demonstrates:
 
 - `if`, `elif`, and `else` statements
+- ` for loop ` problems
 - Comparison operators and chained comparisons
 - Logical operators: `and`, `or`, and `not`
 - Arithmetic and modulo checks
