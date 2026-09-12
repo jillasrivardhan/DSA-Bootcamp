@@ -8,6 +8,7 @@ The notebook demonstrates:
 
 - `if`, `elif`, and `else` statements
 - ` for loop ` problems
+- problems on `nested loops` and `nested conditions`
 - Comparison operators and chained comparisons
 - Logical operators: `and`, `or`, and `not`
 - Arithmetic and modulo checks
