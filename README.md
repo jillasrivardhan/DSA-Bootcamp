@@ -8,6 +8,7 @@ The notebook demonstrates:
 
 - `if`, `elif`, and `else` statements
 - ` for loop ` problems
+- problems on `nested loops` and `nested conditions`
 - Comparison operators and chained comparisons
 - Logical operators: `and`, `or`, and `not`
 - Arithmetic and modulo checks
@@ -58,3 +59,8 @@ The exercises progress from simple single-condition checks to more involved comb
 - Each code cell is independent and generally asks for input using `input()`.
 - Run a cell again whenever you want to try a different value.
 - The notebook is intended for practice, so compare the condition in each prompt with the corresponding Python expression.
+
+👨‍💻 Author
+Jilla Srivardhan
+
+GitHub: jillasrivardhan
